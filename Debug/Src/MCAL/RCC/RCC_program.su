@@ -1,0 +1,8 @@
+../Src/MCAL/RCC/RCC_program.c:11:16:RCC_SelectHSI	16	static
+../Src/MCAL/RCC/RCC_program.c:32:16:RCC_SelectHSERC	16	static
+../Src/MCAL/RCC/RCC_program.c:54:16:RCC_SelectHSEOSC	16	static
+../Src/MCAL/RCC/RCC_program.c:110:16:RCC_udtInitSystemClock	16	static
+../Src/MCAL/RCC/RCC_program.c:128:16:RCC_udtDeinitSystemClock	4	static
+../Src/MCAL/RCC/RCC_program.c:153:16:RCC_udtEnablePeripheralClock	24	static
+../Src/MCAL/RCC/RCC_program.c:192:17:RCC_udtDisablePeripheralClock	24	static
+../Src/MCAL/RCC/RCC_program.c:230:17:RCC_udtResetPeripheral	24	static

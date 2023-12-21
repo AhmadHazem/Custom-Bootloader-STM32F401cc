@@ -1,0 +1,5 @@
+../Src/MCAL/GPIO/GPIO_program.c:21:6:GPIO_Init	24	static
+../Src/MCAL/GPIO/GPIO_program.c:71:16:GPIO_udtSetPinValue	24	static
+../Src/MCAL/GPIO/GPIO_program.c:126:16:GPIO_udtGetPinValue	24	static
+../Src/MCAL/GPIO/GPIO_program.c:156:16:GPIO_udtTogglePin	24	static
+../Src/MCAL/GPIO/GPIO_program.c:181:16:GPIO_udtAtomicSetPinValue	24	static

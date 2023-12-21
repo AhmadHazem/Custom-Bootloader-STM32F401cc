@@ -1,0 +1,7 @@
+../Src/MCAL/NVIC/NVIC_program.c:10:6:NVIC_vidInit	4	static
+../Src/MCAL/NVIC/NVIC_program.c:16:16:NVIC_vidSetPriority	24	static
+../Src/MCAL/NVIC/NVIC_program.c:36:16:NVIC_udtEnableInterrupt	24	static
+../Src/MCAL/NVIC/NVIC_program.c:56:16:NVIC_udtDisableInterrupt	24	static
+../Src/MCAL/NVIC/NVIC_program.c:76:16:NVIC_udtSetPendingFlag	24	static
+../Src/MCAL/NVIC/NVIC_program.c:96:16:NVIC_udtClearPendingFlag	24	static
+../Src/MCAL/NVIC/NVIC_program.c:116:16:NVIC_udtGetActiveFlag	24	static

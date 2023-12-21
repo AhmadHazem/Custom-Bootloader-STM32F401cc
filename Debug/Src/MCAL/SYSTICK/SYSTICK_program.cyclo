@@ -1,0 +1,11 @@
+../Src/MCAL/SYSTICK/SYSTICK_program.c:15:16:SYSTICK_udtSynchSecondsDelay	4
+../Src/MCAL/SYSTICK/SYSTICK_program.c:52:16:SYSTICK_udtSynchMsecondsDelay	4
+../Src/MCAL/SYSTICK/SYSTICK_program.c:87:16:SYSTICK_udtSynchUsecondsDelay	4
+../Src/MCAL/SYSTICK/SYSTICK_program.c:123:16:SYSTICK_udtAsynchSecondsDelay	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:159:16:SYSTICK_udtAsynchMsecondsDelay	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:193:16:SYSTICK_udtAsynchUsecondsDelay	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:228:16:SYSTICK_udtAsynchSingleSecondsDelay	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:262:6:SYSTICK_vidInit	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:278:16:SYSTICK_udtGetElapsedTime	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:291:16:SYSTICK_udtGetRemainingTime	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:304:6:SysTick_Handler	3

@@ -1,0 +1,6 @@
+../Src/MCAL/FLS/FLS_program.c:17:16:FLS_MassErase	3
+../Src/MCAL/FLS/FLS_program.c:41:16:FLS_EraseSector	3
+../Src/MCAL/FLS/FLS_program.c:68:16:FLS_WriteSector	5
+../Src/MCAL/FLS/FLS_program.c:109:16:FLS_ReadSector	2
+../Src/MCAL/FLS/FLS_program.c:124:16:FLS_GetVersion	1
+../Src/MCAL/FLS/FLS_program.c:132:16:FLS_GetAddressSectorID	3

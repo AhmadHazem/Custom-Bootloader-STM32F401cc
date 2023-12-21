@@ -1,0 +1,5 @@
+../Src/Services/UARTIF_program.c:11:6:UARTIFinitialize	1
+../Src/Services/UARTIF_program.c:17:6:UARTIF_attachcomponentcallback	1
+../Src/Services/UARTIF_program.c:22:6:UARTIF_passIRQ	1
+../Src/Services/UARTIF_program.c:27:6:UARTIF_readData	1
+../Src/Services/UARTIF_program.c:32:6:UARTIF_sendData	1

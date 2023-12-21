@@ -1,0 +1,5 @@
+../Src/MCAL/GPIO/GPIO_program.c:21:6:GPIO_Init	8
+../Src/MCAL/GPIO/GPIO_program.c:71:16:GPIO_udtSetPinValue	12
+../Src/MCAL/GPIO/GPIO_program.c:126:16:GPIO_udtGetPinValue	6
+../Src/MCAL/GPIO/GPIO_program.c:156:16:GPIO_udtTogglePin	6
+../Src/MCAL/GPIO/GPIO_program.c:181:16:GPIO_udtAtomicSetPinValue	9

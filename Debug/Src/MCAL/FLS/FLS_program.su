@@ -1,0 +1,6 @@
+../Src/MCAL/FLS/FLS_program.c:17:16:FLS_MassErase	4	static
+../Src/MCAL/FLS/FLS_program.c:41:16:FLS_EraseSector	16	static
+../Src/MCAL/FLS/FLS_program.c:68:16:FLS_WriteSector	32	static
+../Src/MCAL/FLS/FLS_program.c:109:16:FLS_ReadSector	24	static
+../Src/MCAL/FLS/FLS_program.c:124:16:FLS_GetVersion	24	static
+../Src/MCAL/FLS/FLS_program.c:132:16:FLS_GetAddressSectorID	24	static

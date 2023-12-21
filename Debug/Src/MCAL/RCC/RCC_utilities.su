@@ -1,0 +1,2 @@
+../Src/MCAL/RCC/RCC_utilities.c:11:11:gcd	24	static
+../Src/MCAL/RCC/RCC_utilities.c:25:9:decimal_to_fraction	40	static
